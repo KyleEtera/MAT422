@@ -3,7 +3,7 @@
 
 **Instructor**: Professor Haiyan Wang
 
-**Section**: 96893 (Fall 2024)
+**Section**: 83348 (Fall 2024)
 
 --------------------------------------------------
 
